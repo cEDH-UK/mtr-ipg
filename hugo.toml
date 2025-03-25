@@ -1,0 +1,4 @@
+baseURL = 'https://cedh-uk.github.io/mtr-ipg'
+languageCode = 'en-GB'
+title = 'cEDH UK MTR/IPG'
+theme = 'hugo-theme-m10c'
