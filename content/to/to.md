@@ -29,11 +29,11 @@ Every store has different overheads. Certain stores can run multiple events on t
 
 ## Event Software
 
-We have a Topdeck.gg account to use. Once details for your first event are finalised the login will be shared and a tutorial can be arranged however its very user friendly!
+We have a TopDeck.gg account to use. Once details for your first event are finalised the login will be shared and a tutorial can be arranged however its very user friendly!
 
 ## Event Photos
 
-If any photos are taken please forward them onto Ben to share on our social medias.
+If any photos are taken please forward them onto Ben to share on our social media accounts.
 
 ## On the day of the event
 
