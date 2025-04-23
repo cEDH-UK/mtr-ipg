@@ -1,6 +1,6 @@
 +++
 date = '2025-04-23T20:00:02Z'
-title = 'Infraction Procedure Guide'
+title = 'Infraction Procedure Guide Addendum'
 url = 'ipg'
 menus = 'main'
 +++
