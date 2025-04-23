@@ -9,4 +9,4 @@ theme = 'hyde'
 [markup]
   [markup.tableOfContents]
     endLevel = 3
-    ordered = true
+    ordered = false
