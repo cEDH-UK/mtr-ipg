@@ -270,7 +270,7 @@ Our Judges are here to help you! If you notice anything that seems shady, odd, o
 
 Throughout the event, Judges will perform deck checks. This process includes verifying that all cards in a player's deck match the registered decklist. Make sure the decklist you register is accurate.
 
-Remember that no ruling aside from the Head Judge’s is considered final as soon as it is given. If for whatever reason you wish to get a second opinion, please tell the ruling Judge that you would like to appeal to the Head Judge.
+In events with multiple judges, you may appeal rulings given by any judge who is not the head judge or a designated appeals judge. Please refer to [MTR 2.9](https://blogs.magicjudges.org/rules/mtr2-9/) on the appropriate way to appeal.
 
 ## Recording and Image Capture
 
