@@ -1,4 +1,12 @@
 baseURL = 'https://cedh-uk.github.io/mtr-ipg'
 languageCode = 'en-GB'
 title = 'cEDH UK MTR/IPG'
-theme = 'hugo-theme-m10c'
+theme = 'hyde'
+
+[menus]
+  main = [{name = "GitHub", url= "https://github.com/cedh-uk/mtr-ipg"}]
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = true
