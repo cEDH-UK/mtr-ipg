@@ -11,7 +11,8 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"ban.spellright",
+				"streetsidesoftware.code-spell-checker",
+				"streetsidesoftware.code-spell-checker-british-english",
 				"yzhang.markdown-all-in-one",
 				"darkriszty.markdown-table-prettify",
 				"DavidAnson.vscode-markdownlint"

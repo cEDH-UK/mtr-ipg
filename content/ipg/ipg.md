@@ -13,7 +13,7 @@ This document is an extension of the Infraction Procedure Guide, and therefore a
 
 The sections below should be treated as additions to the existing IPG rather than replacing it unless otherwise specified.
 
-## General Philosophy
+## IPG 1 - General Philosophy
 
 ### 1.1 Definitions of Penalties
 
@@ -21,7 +21,7 @@ The sections below should be treated as additions to the existing IPG rather tha
 
 In Multiplayer Tournaments, in some cases the penalty or additional remedy of Skipping a Turn is applied. Please refer to the [Comprehensive Rules 500.10](https://blogs.magicjudges.org/rules/cr500/) for details on how Skipping a Turn works.
 
-## Game Play Errors
+## IPG 2 - Game Play Errors
 
 ### 2.1 Missed Trigger
 
@@ -35,7 +35,7 @@ In Multiplayer Tournaments, in some cases the penalty or additional remedy of Sk
 
 *Modification*: The opponent furthest in turn order from the active player who is not the infracting player is the opponent as described in the IPG. The erroneous set is revealed only to them, and they make any choices required for the remedy. The player making the decisions may not discuss choices with the other players involved.
 
-## Tournament Errors
+## IPG 3 - Tournament Errors
 
 ### 3.1 Tardiness
 
@@ -49,7 +49,7 @@ In Multiplayer Tournaments, in some cases the penalty or additional remedy of Sk
 
 *Modification*: A player refers to any of the players actively playing the current game and may offer advice or strategic information within the current game. Any player who is eliminated from the current game is considered a spectator and may not offer advice or strategic information.
 
-## Unsporting Conduct
+## IPG 4 - Unsporting Conduct
 
 ### 4.1 Minor
 
@@ -71,4 +71,4 @@ Additional actions which are considered Unsporting Conduct Major:
 
 If it is determined that players in Collusion with each other were aware that what they were doing was not permitted, or they acted with malicious intent, the infraction is [Unsporting Conduct - Cheating](https://blogs.magicjudges.org/rules/ipg4-8/). All players found in Collusion will have this infraction.
 
-If it is determined that a player performed a Spite Play while aware it was not permitted, or they acted with malicious intent, tthe infraction is [Unsporting Conduct - Cheating](https://blogs.magicjudges.org/rules/ipg4-8/).
+If it is determined that a player performed a Spite Play while aware it was not permitted, or they acted with malicious intent, the infraction is [Unsporting Conduct - Cheating](https://blogs.magicjudges.org/rules/ipg4-8/).
