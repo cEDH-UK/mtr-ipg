@@ -62,7 +62,7 @@ Commanders are revealed prior to shuffling and presenting decks. A game should n
 
 [Original](https://blogs.magicjudges.org/rules/mtr2-4/)
 
-When time is called, the active player finishes their turn, and there are no additional turns. The game ends when the active player passes their turn. If a non-active player is acting in the end step of the active turn, when time is called, the subsequent turn becomes the final one. A time limit of 20 minutes should be applied to the final turn when time is called.
+When time is called, the active player finishes their turn, and there are no additional turns. The game ends when the active player passes their turn. A time limit of 20 minutes should be applied to the final turn when time is called. If this time limit is reached then nothing else can be put on the stack and the game ends immediately in a draw.
 
 In single-elimination rounds, matches may not end in a draw. If a single-elimination match would end in a draw, for example due to the time limit for the round being reached, then the player who was seeded highest at the end of Swiss will be the winner.
 
@@ -72,7 +72,7 @@ Optionally a Tournament Organiser can opt to have a match end with additional tu
 
 [Original](https://blogs.magicjudges.org/rules/mtr2-5/)
 
-During a multiplayer game, players are encouraged to concede while they have priority, and the stack is empty on their own turn. A player who needs to concede at any other time will be dropped from the event and must talk to a tournament organizer in order to re-enter. In this case, a judge will facilitate any mandatory detrimental triggers of the conceded player until the stack is empty, any non-detrimental triggers will be missed. In the event this happens in response to combat, the turn will be facilitated until the end of combat, with the conceded player declaring no blockers to any creatures that are attacking them.
+During a multiplayer game, players are encouraged to concede while they have priority, and the stack is empty on their own turn. A player who needs to concede at any other time will be dropped from the event and must talk to a tournament organizer in order to re-enter. In this case, a judge will facilitate any mandatory detrimental triggers of the conceded player until the stack is empty, any non-detrimental triggers will be missed. In the event this happens in response to combat, the turn will be facilitated by a judge until the end of combat, with the conceded player declaring no blockers to any creatures that are attacking them.
 
 ### MTR 3 - Tournament Rules
 
@@ -159,7 +159,7 @@ The problem with this situation is that if Player B was actually doing as Spite 
 
 ### Match Points
 
-Players earn 5 match points for each match win, 0 points for each match loss, and 1 match point for each match ending in a draw. Players receiving byes are considered to have won the match. All players listed on a Match must agree to an intentional draw in order to report a Match as such.
+Players earn match points for each match win based on the number of rounds in the event + 1, with a minimum of 5 points, 0 points for each match loss, and 1 match point for each match ending in a draw. So an event with 6 rounds would have 7 points for a win, 7 rounds would have 8 points etc. Players receiving byes are considered to have won the match. All players listed on a Match must agree to an intentional draw in order to report a Match as such.
 
 ### Pairing Guidelines
 
@@ -250,7 +250,7 @@ Counterfeit cards are not allowed, the inclusion of any such cards in your deck 
 
 Players will often refer to Proxy cards when they mean Playtest cards. This document will assume that unless stated otherwise any mention by players or event staff to Proxy cards refers to Playtest cards.
 
-We understand that most cEDH decks require a significant financial investment, often prohibitive for players. Some cards are so expensive that it makes many players uncomfortable to physically play with their authentic cards. When signing up for events please check each individual page for their playtest rules.
+We understand that most cEDH decks require a significant financial investment, often prohibitive for players. Some cards are so expensive that it makes many players uncomfortable to physically play with their authentic cards. When signing up for events please check each individual page for their playtest rules, usually the requirements will include that they must be in colour and use recognisable art.
 
 - Players are responsible for making sure their playtest cards are acceptable by the Judge Team, and are expected to check the validity with them.
 - The Judge Team will evaluate the cards using the same principles defined in the [MTR - 3.3 - Authorized Cards](https://blogs.magicjudges.org/rules/mtr3-3/), with the exception of the following points:
@@ -277,6 +277,14 @@ In events with multiple judges, you may appeal rulings given by any judge who is
 At cEDH UK events photography and video recording may take place for the purposes of promotion or gameplay capture. If you would like to be excluded from this please notify the TO prior to the event.
 
 ## Changelog
+
+### 2025-09-11
+
+- End of match procedure: Removed extra turn for non-active player taking actions in the end step when time is called.
+- End of match procedure: Clarified that when the extra time is over the game is a draw and nothing can be added to the stack or resolved on the stack.
+- Conceding or intentionally drawing: Added that should a player conceding in response to combat will have the rest of the turn facilitated by a judge until the end of combat.
+- Match points: Updated to show points for events with more than 5 rounds will be x + 1, where x is the number of rounds.
+- Playtest cards: Added general requirement for playtest cards as an example of what players may expect from an event.
 
 ### 2025-04-16
 
