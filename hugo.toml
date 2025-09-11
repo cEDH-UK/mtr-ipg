@@ -10,3 +10,6 @@ theme = 'hyde'
   [markup.tableOfContents]
     endLevel = 3
     ordered = false
+
+[markup.goldmark.renderHooks.link]
+enableDefault = true
